@@ -1,0 +1,32 @@
+Padi Ketan
+Padi Wangi
+Padi Pera
+Padi Pulen
+Padi Gogo
+Padi Rawa
+
+
+1. Beras Cap Topi Koki
+2. Beras Cap Sumo
+3. Beras Cap Hotel
+4. Beras Merk Finna
+5. Beras Cap Anak Raja
+6. Beras Merk FS (Food Station)
+7. Beras Merk Si Pulen
+8. Beras Cap Ikan Paus
+9. Beras Merk Idola
+10. Beras Cap Cantik Manis
+11. Beras Maknyuss
+12. Beras Merk Rojolele
+13. Beras Cap Mentik Wangi Susu
+
+Tabel Perkembangan Pasokan Pangan Di Tingkat Pedagang
+
+Komoditas		Satuan	Harga							Persentase Perubahan	
+				3 Bulan yang Lalu	Minggu Lalu	Minggu ke : 1 (Juli 2020)	3 Bulan yang Lalu - Minggu ke : 1 (Juli 2020)	Minggu Lalu - Minggu ke : 1 (Juli 2020)	Fluktuasi
+Pasokan Beras Premium	Kg	5.843.397		73.877		73.877			Turun 98.74%				Stabil 0%				0.02%
+Pasokan Beras Premium	Kuintal	8.492.599		26.411		26.411			Turun 99.69%				Stabil 0%				0.11%
+Pasokan Beras Medium	Kuintal	8.365.099		16.219		16.219			Turun 99.81%				Stabil 0%				0.03%
+Pasokan Beras Medium	Kg	6.160.153		90.632		90.632			Turun 98.53%				Stabil 0%				0.02%
+Pasokan Beras Termurah	Kuintal	5.458.884		15.264		15.264			Turun 99.72%				Stabil 0%				0.04%
+Pasokan Beras Termurah	Kg	4.913.168		58.277		58.277			Turun 98.81%				Stabil 0%				0.02%
